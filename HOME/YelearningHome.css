@@ -1,0 +1,65 @@
+body {
+margin-top : 0px;
+margin-left:0px;
+ background-color: #000;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position:center center;
+ }
+
+ .tittleInterior {
+   position : absolute;
+   height : 100%;
+   width : 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position:center center;
+   background-image:url(IMGBackground.png);
+   }
+
+ .InteriorGradient {
+   position : absolute;
+   height : 100%;
+   width : 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position:center center;
+   background: linear-gradient(transparent, #000);
+   }
+
+ .IMGTitle {
+   display: block;
+   margin-top : 12%;
+   margin-left: auto;
+   margin-right: auto;
+   width : 50%;
+   min-width: 400px;
+   max-width: 600px;
+   }
+
+   .discover {
+     margin-top : 13%;
+     margin-left: auto;
+     margin-right: auto;
+     padding-left: 90px;
+     border-width: 1px;
+     border-style: solid;
+     border-color: #E9FF00;
+     width: 196px;
+     height : 45px;
+     background-color: transparent;
+    }
+
+    .TextDiscover {
+     display: block;
+     font-size: 17;
+     font-weight: bold;
+     margin-left: auto;
+     margin-right: auto;
+     color: #E9FF00;
+     font: caption;
+     }
+
+     .Lien {
+      text-decoration: none;
+      }
