@@ -33,11 +33,22 @@ margin-left:0px;
    padding-right:15px;
    color: #171717;
    background-color: #464646;
-   border: 1px solid rgb(24, 22, 22);
+   border: 1px solid #fff;
    font-size: 14px;
    font-family: helvetica, sans-serif;
  }
-
+ .headerText{
+   margin-top:8px;
+   padding-top: 5px;
+   padding-bottom:5px;
+   padding-left:15px;
+   padding-right:15px;
+   color: #171717;
+   background-color: #464646;
+   border: 1px solid:;
+   font-size: 14px;
+   font-family: helvetica, sans-serif;
+ }
  .headerText2{
   margin-top:8px;
   padding-top: 5px;
