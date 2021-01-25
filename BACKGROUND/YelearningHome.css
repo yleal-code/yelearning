@@ -31,18 +31,7 @@ margin-left:0px;
    text-decoration: none;
    border: 2px solid #171717;
  }
- .headerText2{
-   margin-top:8px;
-   padding-top: 5px;
-   padding-bottom:5px;
-   padding-left:15px;
-   padding-right:15px;
-   color: #171717;
-   background-color: #464646;
-   border: 1px solid;
-   font-size: 14px;
-   font-family: helvetica, sans-serif;
- }
+
  .headerText{
    margin-top:8px;
    padding-top: 5px;
@@ -55,6 +44,18 @@ margin-left:0px;
    font-size: 14px;
    font-family: helvetica, sans-serif;
  }
+ .headerText2{
+  margin-top:8px;
+  padding-top: 5px;
+  padding-bottom:5px;
+  padding-left:15px;
+  padding-right:15px;
+  color: #171717;
+  background-color: #464646;
+  border: 1px solid;
+  font-size: 14px;
+  font-family: helvetica, sans-serif;
+}
  .headerSelectionText{
    margin-top:8px;
    padding-top: 5px;
