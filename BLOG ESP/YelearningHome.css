@@ -8,59 +8,59 @@ margin-left:0px;
  }
 
  /* 0. HEADER */
-
  .headerBackground{
-   padding-left:4px;
-   height:45px;
-   width:100%;
-   background-color: #171717;
-   overflow-x: scroll;
-   overflow-y: hidden;
-   white-space: nowrap;
-   position:fixed;
-   z-index: 1000;
- }
- .headerBloc{
-   margin-left:10px;
-   display: inline-block;
-   text-decoration: none;
- }
- .headerText{
-   margin-top:8px;
-   padding-top: 5px;
-   padding-bottom:5px;
-   padding-left:15px;
-   padding-right:15px;
-   color: #171717;
-   background-color: #464646;
-   border: 1px solid;
-   font-size: 14px;
-   font-family: helvetica, sans-serif;
- }
- .headerText2{
-  margin-top:8px;
-  padding-top: 5px;
-  padding-bottom:5px;
-  padding-left:15px;
-  padding-right:15px;
-  color: #171717;
-  background-color: #464646;
-  border: 1px solid;
-  font-size: 14px;
-  font-family: helvetica, sans-serif;
-}
- .headerSelectionText{
-   margin-top:8px;
-   padding-top: 5px;
-   padding-bottom:5px;
-   padding-left:15px;
-   padding-right:15px;
-   font-weight: bold;
-   color: #000;
-   background: linear-gradient(0.60turn, #E9FF00, #E9FF00);
-   font-size: 14px;
-   font-family: helvetica, sans-serif;
- }
+    padding-left:4px;
+    height:45px;
+    width:100%;
+    background-color: #171717;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    position:fixed;
+    z-index: 1000;
+  }
+  .headerBloc{
+    margin-left:10px;
+    display: inline-block;
+    text-decoration: none;
+  }
+  .headerText{
+    margin-top:8px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    padding-right:15px;
+    color: #171717;
+    background-color: #464646;
+    border: 1px solid:;
+    font-size: 14px;
+    font-family: helvetica, sans-serif;
+  }
+  .headerText2{
+    margin-top:8px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    padding-right:15px;
+    color: #464646;
+    border: 1px solid #464646;
+    font-size: 14px;
+    font-family: helvetica, sans-serif;
+  }
+  .headerSelectionText{
+    margin-top:8px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    padding-right:15px;
+    font-weight: bold;
+    color: #000;
+    background: linear-gradient(0.60turn, #E9FF00, #E9FF00);
+    font-size: 14px;
+    font-family: helvetica, sans-serif;
+  }
+
+ /* 1. BLOG INTERIOR */
 
  /* 1. BLOG INTERIOR */
 
